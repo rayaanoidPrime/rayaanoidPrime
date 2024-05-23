@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rayaanoidPrime , a final year engineering student at JADAVPUR UNIVERSITY,Kolkata,India.
 - 👀 I’m interested in learning fullstack development (with more interest in the front end) and blockchain development as well!!
-- 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on nothing at the moment lol
 - 📫 How to reach me rayaanghosh18@gmail.com
 
